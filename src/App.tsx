@@ -1,7 +1,7 @@
 import { FileText, HandshakeIcon, MessageCircle } from 'lucide-react';
 
 function App() {
-  const whatsappNumber = '5511949858560';
+  const whatsappNumber = '5571996902314';
 
   const handleWhatsAppClick = (message: string) => {
     const encodedMessage = encodeURIComponent(message);
