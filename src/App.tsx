@@ -1,7 +1,7 @@
 import { MessageCircle, FileText, Wrench, MoreHorizontal, Phone } from 'lucide-react';
 
 function App() {
-  const whatsappNumber = '5521979524702';
+  const whatsappNumber = '5521979524758';
 
   const openWhatsApp = (message: string) => {
     const encodedMessage = encodeURIComponent(message);
